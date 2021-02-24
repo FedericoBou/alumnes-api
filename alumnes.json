@@ -9,7 +9,7 @@
         {
             "id": 2,
             "nom": "Joan",
-            "cognoms": "Castanyera Raventós",
+            "cognoms": "Castanyerca Raventós",
             "nota": 7
         },
         {
@@ -36,5 +36,16 @@
             "cognoms": "Estruga Sánchez",
             "nota": 6
         }
+{
+
+"vais": 7,
+
+"nombre": "Xènia",
+
+"apellidos": "Pérez Lecha",
+
+"nota": 8
+
+}
     ]
 }
